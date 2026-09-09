@@ -12,9 +12,9 @@
 
 **不做订阅阅后即焚!!放心使用**
 
-**小蜜蜂(XmfWww)**全IEPL专线机场，原生IP节点，海外团队。有热门小众节点，还有特色年付小包低至8元每月，有不限时的流量包，全天客服在线
+**小蜜蜂(XmfWww)** 全IEPL专线机场，原生IP节点，海外团队。有热门小众节点，还有特色年付小包低至8元每月，有不限时的流量包，全天客服在线
 
-- 原生IP解锁流媒体，包括**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）**等等
+- 原生IP解锁流媒体，包括**Netflix、Disney、HBO Max、HBO Go、YouTube、Spotify、Hulu、Instagram、X（Twitter）** 等等
 - 解锁**TikTok**，解锁**ChatGPT**、**Copilot**、**Gemini**等AI工具
 - **全局负载均衡、动态加速**
 - 晚高峰不限速，敏感期间不影响使用
@@ -50,5 +50,6 @@
 - [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://eoht.net/serve/sharing/account-sharing-guide)
 - [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://eoht.net/ai/summary)
 - [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://eoht.net/serve/code/sms)
+
 > **免责声明**
 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
